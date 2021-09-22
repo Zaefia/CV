@@ -1,0 +1,55 @@
+body{
+  background-color:#eae6e6;
+}
+
+
+a,p,ol,ul{
+  font-size:130%;
+}
+
+
+a.links{
+  text-decoration: none;
+  color:#5f606c;
+}
+
+
+a.links:hover{
+color:#1B1D2E;
+}
+
+
+h1{
+  background-color:#1B1D2E;
+  color:#d5cdcd;
+}
+
+
+h2.sub-heading{
+  color:#1B1D2E;
+}
+
+
+h2.odd-headings{
+  background-color:#c0b4b4;
+  color:#1B1D2E;
+}
+
+
+h2.even-headings{
+  background-color:#8A8DA1;
+  color:#1B1D2E;
+}
+
+h3{
+  background-color:#c0b4b4;
+  color:#1B1D2E;
+}
+
+
+hr.horizontal-line{
+  height:3px;
+  border:none;
+  color:#1B1D2E;
+  background-color:#1B1D2E;
+}
